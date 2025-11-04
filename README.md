@@ -1,3 +1,4 @@
+Power-BI-Project on Movie Sales Analysis
 📘 Project Overview
 
 This Power BI project provides an in-depth analysis of global movie sales data, focusing on genre performance, box office trends, director impact, and audience engagement metrics such as ratings, votes, and runtime. The dashboard aims to uncover actionable insights on how various factors influence revenue, helping stakeholders make data-driven decisions in the film industry.
